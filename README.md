@@ -129,8 +129,7 @@ Here’s a breakdown of the major folders/files:
 Feel free to fork the project, make your improvements, and submit a pull request. Suggestions for improvements: UI enhancements, new features, bug fixes, documentation enhancements.
 
 ## 📄 License
-*Specify the license here* (e.g., MIT License).
-If you haven’t set one yet, consider adding a `LICENSE` file.
+MIT.
 
 ---
 
